@@ -1,0 +1,1 @@
+Có thể khai báo 1 hàm tính BMI bên ngoài và gọi tới hàm BMI đó từ John hoặc Mark, khi đó biến this sẽ tính theo từng mass và height riêng của John/Mark
